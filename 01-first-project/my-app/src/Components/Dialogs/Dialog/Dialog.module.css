@@ -1,0 +1,28 @@
+.dialog {
+    display: flex;
+    margin-bottom: 0px;
+    padding: 5px 0;
+    font-weight: bold;
+    color: white;
+    transition: background-color .2s linear, color .2s linear, border-color .2s linear ;
+    align-items: center;
+    border-bottom: 3px solid white;
+}
+
+.dialog:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border-color: gray;
+}
+
+.link {
+    width: 100%;
+    text-decoration: none;
+    color: inherit;
+}
+
+.img{
+    padding: 5px 10px;
+    border-radius: 50%;
+}

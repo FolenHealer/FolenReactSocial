@@ -1,0 +1,98 @@
+.bg {
+    display: flex;
+}
+
+.img {
+    width: 100%;
+}
+
+.userItem {
+    margin: 20px 0 20px 20px;
+    width: 50%;
+    padding: 20px 0 20px 0;
+    border: 3px solid gray;
+    text-align: center;
+    box-shadow: 10px 10px 0 white;
+}
+
+/*.user {
+    color: white;
+    font-weight: 700;
+    display: flex;
+    margin: 25px 0;
+}*/
+
+.avatar {
+    border: 3px solid white;
+    border-radius: 50%;
+}
+
+.fullName {
+    text-decoration: underline;
+    margin: 20px 0;
+    background-color: white;
+    font-size: 50px;
+    padding: 10px 0;
+    color: black;
+}
+
+
+/*CONTACTS********************************************************
+**************************************************************/
+
+.contactsContainer {
+    width: 50%;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.contacts {
+    display: inline-block;
+    justify-content: center;
+    width: 100%;
+}
+
+.contactsTitle {
+    color: black;
+    background-color: #fff;
+}
+
+.contactItem {
+    width: 100%;
+    padding: 5px 0;
+    margin: 5px 0;
+    background-color: white;
+    color: black;
+    text-transform: uppercase;
+}
+
+.contactItem:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+
+/*STATUS*******************************************************************************************************/
+.statusContainer{
+    display: flex;
+    padding-bottom: 15px;
+    justify-content: center;
+}
+.status{
+    text-align: center;
+}
+.nowStatusContainer{
+    margin-bottom: 20px;
+}
+.nowStatus{
+    font-size: 25px;
+    background-color: #fff;
+    color: black;
+    padding: 10px 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.editStatus{
+    color: black;
+}

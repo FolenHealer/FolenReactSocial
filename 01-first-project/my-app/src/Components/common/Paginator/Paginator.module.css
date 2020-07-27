@@ -1,0 +1,53 @@
+.spanContainer {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+    max-height: 100px;
+    overflow: auto;
+    border: 2px solid gray;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+.page {
+    cursor: pointer;
+    padding: 0 5px;
+    transition: color .2s linear, background-color .2s linear;
+}
+
+.page:hover {
+    background-color: #fff;
+    color: black;
+}
+
+.selectedPage {
+    padding: 0 5px;
+    font-weight: 700;
+    cursor: pointer;
+    background-color: #fff;
+    color: black;
+}
+
+.btn {
+
+    max-width: 300px;
+    background-color: #fff;
+
+    cursor: pointer;
+    transition: background-color .2s linear, border-color .2s linear, color .2s linear;
+
+    border: 2px solid gray;
+    border-radius: 20px;
+
+    color: black;
+    font-weight: 700;
+
+    outline: none;
+}
+
+.btn:hover {
+
+    background-color: gray;
+    border-color: white;
+    color: white;
+}
