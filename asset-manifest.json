@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/FolenReactSocial/static/css/main.3b56aec5.chunk.css",
+    "main.js": "/FolenReactSocial/static/js/main.6351326f.chunk.js",
+    "main.js.map": "/FolenReactSocial/static/js/main.6351326f.chunk.js.map",
+    "runtime-main.js": "/FolenReactSocial/static/js/runtime-main.88767809.js",
+    "runtime-main.js.map": "/FolenReactSocial/static/js/runtime-main.88767809.js.map",
+    "static/js/2.8380c8c5.chunk.js": "/FolenReactSocial/static/js/2.8380c8c5.chunk.js",
+    "static/js/2.8380c8c5.chunk.js.map": "/FolenReactSocial/static/js/2.8380c8c5.chunk.js.map",
+    "static/css/3.cb0b5a1e.chunk.css": "/FolenReactSocial/static/css/3.cb0b5a1e.chunk.css",
+    "static/js/3.037276b1.chunk.js": "/FolenReactSocial/static/js/3.037276b1.chunk.js",
+    "static/js/3.037276b1.chunk.js.map": "/FolenReactSocial/static/js/3.037276b1.chunk.js.map",
+    "static/css/4.434f7bdc.chunk.css": "/FolenReactSocial/static/css/4.434f7bdc.chunk.css",
+    "static/js/4.65366f5a.chunk.js": "/FolenReactSocial/static/js/4.65366f5a.chunk.js",
+    "static/js/4.65366f5a.chunk.js.map": "/FolenReactSocial/static/js/4.65366f5a.chunk.js.map",
+    "static/css/5.ac3f3a71.chunk.css": "/FolenReactSocial/static/css/5.ac3f3a71.chunk.css",
+    "static/js/5.fedcf011.chunk.js": "/FolenReactSocial/static/js/5.fedcf011.chunk.js",
+    "static/js/5.fedcf011.chunk.js.map": "/FolenReactSocial/static/js/5.fedcf011.chunk.js.map",
+    "index.html": "/FolenReactSocial/index.html",
+    "precache-manifest.30a17d3002efefee2407bffc089de561.js": "/FolenReactSocial/precache-manifest.30a17d3002efefee2407bffc089de561.js",
+    "service-worker.js": "/FolenReactSocial/service-worker.js",
+    "static/css/3.cb0b5a1e.chunk.css.map": "/FolenReactSocial/static/css/3.cb0b5a1e.chunk.css.map",
+    "static/css/4.434f7bdc.chunk.css.map": "/FolenReactSocial/static/css/4.434f7bdc.chunk.css.map",
+    "static/css/5.ac3f3a71.chunk.css.map": "/FolenReactSocial/static/css/5.ac3f3a71.chunk.css.map",
+    "static/css/main.3b56aec5.chunk.css.map": "/FolenReactSocial/static/css/main.3b56aec5.chunk.css.map",
+    "static/js/2.8380c8c5.chunk.js.LICENSE.txt": "/FolenReactSocial/static/js/2.8380c8c5.chunk.js.LICENSE.txt",
+    "static/media/pre-loader.svg": "/FolenReactSocial/static/media/pre-loader.032cfdac.svg",
+    "static/media/user.jpg": "/FolenReactSocial/static/media/user.7eac35d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88767809.js",
+    "static/js/2.8380c8c5.chunk.js",
+    "static/css/main.3b56aec5.chunk.css",
+    "static/js/main.6351326f.chunk.js"
+  ]
+}
